@@ -1,4 +1,4 @@
-# Yo Yo Yo Yo Yo
+# Yo  Yo Yo Yo
 
 # AngularJS Phone Catalog Tutorial Application
 
