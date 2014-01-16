@@ -1,4 +1,4 @@
-# Yo  Yo Yo Yo ------- DEV BRANCH with SmartGit second commit
+# Yo  Yo Yo Yo BI BI BI ------- DEV BRANCH with SmartGit second commit
 
 # AngularJS Phone Catalog Tutorial Application
 
