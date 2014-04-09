@@ -16,9 +16,9 @@
 		<div id="scroller">
 			<ul id="thelist" class="phones">
 				
-				<li ng-repeat="phone in phones | filter:query | orderBy:orderProp" class="thumbnail">
+				<li ng-repeat="phone in phones | filter:query | orderBy:orderProp" class="thumbnail" style="height:200px; background-color:#aaaaaa;">
 				  <a href="#/phones/{{phone.id}}" class="thumb"><img ng-src="{{phone.imageUrl}}"></a>
-				  <span>{{phone.name}}</span>
+				  <b><span style="font-size:16pt;">{{phone.name}}</span></b>
 				  <p>{{phone.snippet}}</p>
 				</li>
 			
