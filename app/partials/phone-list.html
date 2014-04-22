@@ -19,7 +19,7 @@
 				<li ng-repeat="phone in phones | filter:query | orderBy:orderProp" class="thumbnail">
 				  <a href="#/phones/{{phone.id}}" class="thumb"><img ng-src="{{phone.imageUrl}}"></a>
 				  <span><b>{{phone.name}}</b></span>
-				  <p>{{phone.snippet}}</p>
+				  <p><i>{{phone.snippet}}</i></p>
 				</li>
 			
 		   </ul>	   
